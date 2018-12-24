@@ -1,0 +1,11 @@
+background image of the national championship
+a title describing what the user is guessing
+images of all the colleges logos that have won a championship
+a array of all the college teams that have won a championship
+text showing how many letters are in the answer
+text showing wins or losses
+text showing what letters you've choosen
+text showing win streak
+if statement dictating what key was pressed
+if statment dictating the wrong letter was choosen
+a way to show or to tell the user how many they have left
